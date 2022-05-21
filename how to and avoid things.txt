@@ -1,0 +1,9 @@
+Testing Env: Ubuntu, Visual Studio Code, AWS ap-southeast-1 region
+
+First of all, we will need to make sure AWS cli, eks and required configuration.
+
+Second, configure step by step according to documentation.
+
+Lastly, should avoid using micro EC2 instance in eks nodes, faced error when create pods and load testing.
+
+Have fun!!!
